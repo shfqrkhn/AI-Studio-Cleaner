@@ -15,7 +15,7 @@ A lightweight, browser-based tool to parse and clean up exported chat history JS
 
 ### Option 1: Live Demo (GitHub Pages)
 
-*(If you have set up GitHub Pages, link it here. e.g., https://www.google.com/search?q=https://yourusername.github.io/ai-studio-cleaner)*
+https://shfqrkhn.github.io/AI-Studio-Cleaner/
 
 ### Option 2: Run Locally
 
@@ -44,5 +44,6 @@ Your site will be live in a few moments!
 - **Lucide React** (for icons)
 
 ## 📄 License
+
 
 MIT License - feel free to use, modify, and distribute as you wish.
